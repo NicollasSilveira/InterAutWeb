@@ -1,0 +1,122 @@
+body {
+    background-image: url(yelow.png);
+    background-size: auto;
+}
+
+* {
+    color:#f3ecec;
+    font-style:arial; 
+    
+}
+
+a{
+	text-decoration: none;
+}
+a:link{
+    color:rgb(237, 243, 235);
+    color:rgb(234, 243, 231);
+}
+
+a:hover {
+    color:rgb(228, 231, 29);
+}
+
+
+form input{
+	margin-top:10px;
+	margin-bottom: 5px
+}
+
+nav {
+    position: absolute;
+    font-size: 24px;
+    left: 0%;
+    top: 0%;
+    background:linear-gradient(black, rgba(31, 31, 233, 1.0));
+    right: 0%;
+    text-align: center;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+
+li{
+    padding-right: 50px;
+    font-weight: bold;
+    display: inline;
+}
+
+main{
+    margin-top:  21%;
+}
+
+
+#imgHeader{
+    width: 15%;
+    height: 15%;
+    align-content: center;
+}
+
+.imgHeader1{
+    width: 12%;
+    height: 12%;
+
+}
+
+#divMain{
+    padding: 10px;
+    font-size: 15px;
+    margin: auto;
+    width: 60%;
+    height: 50%;
+    background-image: url(InterAutsf.png);
+    border-radius: 50px;
+    text-align: center;
+}
+
+#divMain p{
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+    text-align: justify;
+    
+}
+#divMain h1{
+    font-weight: bolder;
+    color: black;
+    font-size: 35px;
+}
+iframe{
+    margin-top: 13%;
+    padding: 15px;
+    margin: auto;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 35%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+#top{
+    text-align: center;
+    font-size:32px;
+}
+
+div img {
+    width: 100%;
+}
+    
+
+footer {
+    background-color: #141414;
+    color: #f9fcf8;
+    padding: 2%;
+    text-align: center;
+    font-size: 23px;
+
+}

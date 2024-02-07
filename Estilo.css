@@ -1,0 +1,199 @@
+body {
+    background-image: url(white.png);
+    background-size: auto;
+    
+}
+
+* {
+    font-style:arial; 
+    text-align: center;
+    color: #f3e3e3;
+ 
+}
+
+.H {
+    font-size: 35px;
+    color:rgb(5, 5, 5);
+    padding: 0%;
+    margin: 0;
+    
+}
+p {
+    color: #141414;
+    text-align: justify;
+}
+
+#div1{
+    padding: 20px;
+    font-size: 25px;
+    margin: auto;
+    width: 40%;
+    height: 10%;
+    background-image: url(InterAutsf.png);
+    margin-top: 18%;
+    border-radius: 50px;
+    display: flexbox;
+    font-weight: bold;
+    color: black;
+    }    
+
+a{
+	text-decoration: none;
+    border-color: black;
+}
+a:link{
+    color:rgb(237, 243, 235);
+    color:rgb(237, 243, 235);
+}
+
+a:hover {
+    color:rgb(228, 231, 29);
+}
+
+
+form input{
+	margin-top:10px;
+	margin-bottom: 5px;
+
+
+}
+
+
+   
+nav {
+    position: absolute;
+    font-size: 24px;
+    left: 0%;
+    top: 0%;
+    background:linear-gradient(black, rgba(31, 31, 233, 1.0));
+    right: 0%;
+    text-align: center;
+    justify-content: center;
+}
+
+#btn{
+    color: #ffffff;
+    background-color: rgb(25, 38, 107);
+    font-size: 32px;
+}
+
+ul {
+
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+
+
+}
+
+li{
+    padding-right: 50px;
+    font-weight: bold;
+    display: inline;
+    
+    
+    
+}
+
+main{
+    margin-top: 10%;
+    
+}
+
+nav img{
+    position: center;
+    width: 12%;
+    height: 12%;
+    
+}
+
+.imgHeader1{
+    width: 12%;
+    height: 12%;
+
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center; 
+     border-radius: 50px;
+    
+}
+
+#divMain p{
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+
+}
+
+
+
+.divMain {
+    padding: 2px;
+    font-size: 25px;
+    margin: auto;
+    width: 50%;
+    background-image: url(InterAutsf.png);
+    margin-top: 5%;
+    border-radius: 50px;
+    text-align: center;
+    font-weight: bold;
+    
+
+    
+    
+    
+}
+iframe{
+    margin-top: 3%;
+    padding: 15px;
+    margin: auto;
+    background-color: blue;
+    border-radius: 50px;
+    align-items: center;  
+    margin-bottom: 3%;
+}
+
+
+.app{
+    width: 40%;
+    height:40%;
+    display:flexbox;  
+    padding: 0;
+    margin: 0;
+
+}
+.vtr{
+    width: 300px;
+    height:300px;
+    display:flexbox;  
+    padding: 0;
+    margin: 0;
+    border-radius : 150px;
+    background-color: rgb(66, 32, 55);
+
+
+    
+}
+
+footer {
+    background-color: #141414;
+    color: #f9fcf8;
+    padding: 2%;
+    text-align: center;
+    font-size: 23px;
+
+
+}
+
+
+
+#DivSup {
+    padding: 10px;
+    font-size: 18px;
+    margin: auto;
+    background-color: black;
+    border: 5px darkblue;
+}

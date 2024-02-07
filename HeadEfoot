@@ -1,0 +1,60 @@
+<DOCTYPE! HTML>
+
+<Style>
+    
+nav {
+    background:linear-gradient(black, rgba(31, 31, 233, 1.0));
+    text-align: center;
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+}
+
+li{
+    padding-right: 50px;
+    font-weight: bold;
+    display: inline;
+}
+
+
+#imgHeader{
+    width: 15%;
+    height: 15%;
+    align-content: center;
+}
+
+footer {
+    background-color: #141414;
+    color: #f9fcf8;
+    padding: 2%;
+    text-align: center;
+    font-size: 23px;
+}
+
+
+</style>
+
+<nav>
+
+<img id="imgHeader" src="logo2.png" alt=""><br>
+
+<ul>
+    <li><a href="home.html">HOME</a></li>
+    <li><a href="responsaveis.html">RESPONSÁVEIS</a></li>
+    <li><a href="Professor.html">PROFESSOR</a></li>
+    <li><a href="Cadastro.html">CADASTRO</a></li>
+
+
+</ul>
+
+</nav>
+
+<footer>
+        &copy; 2023 InterAut Corporation.
+   
+</footer>
